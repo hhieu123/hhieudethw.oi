@@ -1,0 +1,35 @@
+{
+    "devMode": true,
+    "testMode": false,
+    "allowInbox": false,
+    "refreshDatabase": {
+        "status": true,
+        "timeToRefresh": {
+            "users": 28800000,
+            "threads": 21600000
+        }
+    },
+    "commandsDisabled": [],
+    "eventsDisabled": [],
+    "BOTNAME": "🧚‍♀️Tecna🧚‍♀️ - Created by hhieu",
+    "prefix": "#",
+    "BotSystem": "ID nhóm test bot nếu có",
+    "ADMIN": [
+        "ID của bạn"
+    ],
+    "GC": {
+        "status": false,
+        "character": "IN　Name"
+    },
+    "resend": {
+        "status": true,
+        "ID": "ID nhóm Bot sẽ gửi tin nhắn mà thàh viên gỡ vào",
+        "banned": []
+    },
+    "optionsLogin": {
+        "forceLogin": true,
+        "autoMarkRead": true,
+        "listenEvents": true,
+        "selfListen": true
+    }
+}
